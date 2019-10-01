@@ -240,3 +240,10 @@
 	<GL/glut.h>
 	<stdlib.h>
 
+1569939557 source:e:\computergraphic\lab04_cardioid.cpp
+	<GL/glut.h>
+	<math.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
